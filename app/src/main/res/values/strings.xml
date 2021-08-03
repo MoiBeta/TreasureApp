@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="selec_home_many_treasures_you_want_to_find">Selec home many treasures you want to find!!</string>
+    <string name="_1_treasure">1 Treasure</string>
+    <string name="_2_treasures">2 Treasures</string>
+    <string name="_3_treasures">3 Treasures</string>
+</resources>
